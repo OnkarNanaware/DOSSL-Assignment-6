@@ -49,7 +49,7 @@ describe('Student Task Manager', () => {
         );
 
         expect(task.title).toBe(
-            'Complete Jenkins Assignment'
+            'Complete Jenkins 343 Assignment'
         );
 
         expect(task.priority).toBe('High');
